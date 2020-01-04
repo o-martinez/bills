@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_391849_bills_nordy</description>
+        <name>x_391849_bills_nordy</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+        <sys_created_on>2019-12-30 06:10:49</sys_created_on>
+        <sys_id>e483629ddb420010a40d6f77489619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_391849_bills_nordy</sys_name>
+        <sys_package display_value="bills" source="x_391849_bills">06aec2d1db020010a40d6f77489619d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="bills">06aec2d1db020010a40d6f77489619d2</sys_scope>
+        <sys_update_name>sys_security_acl_e483629ddb420010a40d6f77489619f1</sys_update_name>
+        <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+        <sys_updated_on>2019-12-30 06:10:49</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_391849_bills_nordy" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-31 05:58:10</sys_created_on>
+            <sys_id>b83aa329db460010a40d6f77489619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-31 05:58:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-31 05:58:10</sys_created_on>
+            <sys_id>3c3aa329db460010a40d6f77489619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-31 05:58:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-31 05:58:10</sys_created_on>
+            <sys_id>bc3aa329db460010a40d6f77489619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-31 05:58:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-31 05:58:10</sys_created_on>
+            <sys_id>303aa329db460010a40d6f77489619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-31 05:58:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-31 05:58:10</sys_created_on>
+            <sys_id>b03aa329db460010a40d6f77489619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-31 05:58:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-31 05:58:10</sys_created_on>
+            <sys_id>343aa329db460010a40d6f77489619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-31 05:58:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_imp_tmpl_x_391849_bills_nordy</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-31 05:58:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f43aa329db460010a40d6f77489619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_x_391849_bills_nordy</sys_name>
+            <sys_package display_value="bills" source="x_391849_bills">06aec2d1db020010a40d6f77489619d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="bills">06aec2d1db020010a40d6f77489619d2</sys_scope>
+            <sys_update_name>sys_ui_list_u_imp_tmpl_x_391849_bills_nordy_null</sys_update_name>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-31 05:58:10</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="bills">06aec2d1db020010a40d6f77489619d2</application>
+        <file_path/>
+        <instance_id>84127954dbdd738049eac5970596195f</instance_id>
+        <instance_name>dev85021</instance_name>
+        <name>sys_ui_list_u_imp_tmpl_x_391849_bills_nordy_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_391849_bills_nordy" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_row</element><list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>omar.martinez@glidefast.com</sys_created_by><sys_created_on>2019-12-31 05:58:10</sys_created_on><sys_id>b83aa329db460010a40d6f77489619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>omar.martinez@glidefast.com</sys_updated_by><sys_updated_on>2019-12-31 05:58:10</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_set</element><list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>omar.martinez@glidefast.com</sys_created_by><sys_created_on>2019-12-31 05:58:10</sys_created_on><sys_id>3c3aa329db460010a40d6f77489619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>omar.martinez@glidefast.com</sys_updated_by><sys_updated_on>2019-12-31 05:58:10</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_state</element><list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>omar.martinez@glidefast.com</sys_created_by><sys_created_on>2019-12-31 05:58:10</sys_created_on><sys_id>bc3aa329db460010a40d6f77489619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>omar.martinez@glidefast.com</sys_updated_by><sys_updated_on>2019-12-31 05:58:10</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_target_table</element><list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>omar.martinez@glidefast.com</sys_created_by><sys_created_on>2019-12-31 05:58:10</sys_created_on><sys_id>303aa329db460010a40d6f77489619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>omar.martinez@glidefast.com</sys_updated_by><sys_updated_on>2019-12-31 05:58:10</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_target_sys_id</element><list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>omar.martinez@glidefast.com</sys_created_by><sys_created_on>2019-12-31 05:58:10</sys_created_on><sys_id>b03aa329db460010a40d6f77489619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>omar.martinez@glidefast.com</sys_updated_by><sys_updated_on>2019-12-31 05:58:10</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_row_error</element><list_id display_value="u_imp_tmpl_x_391849_bills_nordy" element="NULL" name="u_imp_tmpl_x_391849_bills_nordy" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f43aa329db460010a40d6f77489619fd</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>omar.martinez@glidefast.com</sys_created_by><sys_created_on>2019-12-31 05:58:10</sys_created_on><sys_id>343aa329db460010a40d6f77489619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>omar.martinez@glidefast.com</sys_updated_by><sys_updated_on>2019-12-31 05:58:10</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>u_imp_tmpl_x_391849_bills_nordy</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>omar.martinez@glidefast.com</sys_created_by><sys_created_on>2019-12-31 05:58:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f43aa329db460010a40d6f77489619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_imp_tmpl_x_391849_bills_nordy</sys_name><sys_package display_value="bills" source="x_391849_bills">06aec2d1db020010a40d6f77489619d2</sys_package><sys_policy/><sys_scope display_value="bills">06aec2d1db020010a40d6f77489619d2</sys_scope><sys_update_name>sys_ui_list_u_imp_tmpl_x_391849_bills_nordy_null</sys_update_name><sys_updated_by>omar.martinez@glidefast.com</sys_updated_by><sys_updated_on>2019-12-31 05:58:10</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-356471070</payload_hash>
+        <record_name>Imp Tmpl X 391849 Bills Nordy</record_name>
+        <reverted_from/>
+        <source>1aaec2d1db020010a40d6f77489619d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+        <sys_created_on>2019-12-31 05:59:41</sys_created_on>
+        <sys_id>cf8a6b29db460010a40d6f7748961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f5a89d8c60000001</sys_recorded_at>
+        <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+        <sys_updated_on>2019-12-31 05:59:41</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>8f8a6b29e84600100a1aa44624a69b66</update_guid>
+        <update_guid_history>8f8a6b29e84600100a1aa44624a69b66:-356471070</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+        <sys_created_on>2019-12-31 05:59:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>0d737d3262ad41a785437aeeb614f749</sys_id>
+        <sys_metadata>f43aa329db460010a40d6f77489619fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_imp_tmpl_x_391849_bills_nordy</sys_name>
+        <sys_package display_value="bills" source="x_391849_bills">06aec2d1db020010a40d6f77489619d2</sys_package>
+        <sys_parent display_value="Imp Tmpl X 391849 Bills Nordy">703aa329db460010a40d6f77489619be</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="bills">06aec2d1db020010a40d6f77489619d2</sys_scope>
+        <sys_scope_delete display_value="">13be99212e4f499a827d9e7ddc148264</sys_scope_delete>
+        <sys_update_name>sys_ui_list_u_imp_tmpl_x_391849_bills_nordy_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_u_imp_tmpl_x_391849_bills_nordy_null">cf8a6b29db460010a40d6f7748961966</sys_update_version>
+        <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+        <sys_updated_on>2019-12-31 05:59:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

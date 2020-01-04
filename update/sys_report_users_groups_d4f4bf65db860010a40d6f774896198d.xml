@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Pie on Nordy table by category created by Omar Martinez: 12-31-2019 00:43:34">50f4bf65db860010a40d6f774896198d</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+        <sys_created_on>2019-12-31 06:45:06</sys_created_on>
+        <sys_id>d4f4bf65db860010a40d6f774896198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>50f4bf65db860010a40d6f774896198d</sys_name>
+        <sys_package display_value="bills" source="x_391849_bills">06aec2d1db020010a40d6f77489619d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="bills">06aec2d1db020010a40d6f77489619d2</sys_scope>
+        <sys_update_name>sys_report_users_groups_d4f4bf65db860010a40d6f774896198d</sys_update_name>
+        <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+        <sys_updated_on>2019-12-31 06:45:06</sys_updated_on>
+        <user_id display_value="Omar Martinez">1b72d193dbd213007e1fffb41d96196d</user_id>
+    </sys_report_users_groups>
+</record_update>

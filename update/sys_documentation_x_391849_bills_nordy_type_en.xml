@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="type" label="Type" language="en" table="x_391849_bills_nordy">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <help/>
+            <hint/>
+            <label>Type</label>
+            <language>en</language>
+            <name>x_391849_bills_nordy</name>
+            <plural>Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-31 05:43:33</sys_created_on>
+            <sys_id>bad6a725db460010a40d6f7748961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Type</sys_name>
+            <sys_package display_value="bills" source="x_391849_bills">06aec2d1db020010a40d6f77489619d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="bills">06aec2d1db020010a40d6f77489619d2</sys_scope>
+            <sys_update_name>sys_documentation_x_391849_bills_nordy_type_en</sys_update_name>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-31 05:43:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

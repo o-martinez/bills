@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="category" max_length="40" name="x_391849_bills_category" type="collection">
+        <element attributes="edge_encryption_enabled=true" hint="or Keyphrase" label="Keyword" max_length="40" name="category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Groceries" sequence="0" value="Groceries"/>
+                <element inactive_on_update="false" label="Home" sequence="1" value="Home"/>
+                <element inactive_on_update="false" label="Gas" sequence="2" value="Gas"/>
+                <element inactive_on_update="false" label="Vehicles" sequence="3" value="Vehicles"/>
+                <element inactive_on_update="false" label="Eating Out" sequence="4" value="Eating Out"/>
+                <element inactive_on_update="false" label="Entertainment" sequence="5" value="Entertainment"/>
+                <element inactive_on_update="false" label="Health" sequence="6" value="Health"/>
+                <element inactive_on_update="false" label="Amazon" sequence="7" value="Amazon"/>
+            </choice>
+        </element>
+    </element>
+</database>

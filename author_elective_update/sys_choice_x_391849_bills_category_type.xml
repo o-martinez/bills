@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_391849_bills_category" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Groceries</label>
+            <language>en</language>
+            <name>x_391849_bills_category</name>
+            <sequence>0</sequence>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-30 05:57:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34606e59db420010a40d6f7748961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-30 05:57:11</sys_updated_on>
+            <value>Groceries</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Home</label>
+            <language>en</language>
+            <name>x_391849_bills_category</name>
+            <sequence>1</sequence>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-30 05:57:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f8606e59db420010a40d6f7748961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-30 05:57:11</sys_updated_on>
+            <value>Home</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gas</label>
+            <language>en</language>
+            <name>x_391849_bills_category</name>
+            <sequence>2</sequence>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-30 05:57:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8606e59db420010a40d6f7748961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-30 05:57:11</sys_updated_on>
+            <value>Gas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vehicles</label>
+            <language>en</language>
+            <name>x_391849_bills_category</name>
+            <sequence>3</sequence>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-30 05:57:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30602a99db420010a40d6f77489619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-30 05:57:11</sys_updated_on>
+            <value>Vehicles</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Eating Out</label>
+            <language>en</language>
+            <name>x_391849_bills_category</name>
+            <sequence>4</sequence>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-30 05:57:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc602a99db420010a40d6f77489619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-30 05:57:11</sys_updated_on>
+            <value>Eating Out</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Entertainment</label>
+            <language>en</language>
+            <name>x_391849_bills_category</name>
+            <sequence>5</sequence>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-31 05:22:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3fe16329db060010a40d6f7748961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-31 05:22:03</sys_updated_on>
+            <value>Entertainment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Health</label>
+            <language>en</language>
+            <name>x_391849_bills_category</name>
+            <sequence>6</sequence>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-31 06:41:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f143765db860010a40d6f774896191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-31 06:41:29</sys_updated_on>
+            <value>Health</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Amazon</label>
+            <language>en</language>
+            <name>x_391849_bills_category</name>
+            <sequence>7</sequence>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-31 07:02:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5097ba9db860010a40d6f7748961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-31 07:02:54</sys_updated_on>
+            <value>Amazon</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_391849_bills_category</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>omar.martinez@glidefast.com</sys_created_by>
+            <sys_created_on>2019-12-30 05:57:11</sys_created_on>
+            <sys_id>fc606e59db420010a40d6f7748961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="bills" source="x_391849_bills">06aec2d1db020010a40d6f77489619d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="bills">06aec2d1db020010a40d6f77489619d2</sys_scope>
+            <sys_update_name>sys_choice_x_391849_bills_category_type</sys_update_name>
+            <sys_updated_by>omar.martinez@glidefast.com</sys_updated_by>
+            <sys_updated_on>2019-12-30 05:57:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
